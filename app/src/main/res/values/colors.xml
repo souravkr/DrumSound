@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="one">#e23047</color>
+    <color name="two">#c5a182</color>
+    <color name="three">#a0dacd</color>
+    <color name="four">#0cc697</color>
+    <color name="six">#ed925c</color>
+    <color name="seven">#abdfd4</color>
+    <color name="nine">#6fa482</color>
+    <color name="ten">#8ea513</color>
+    <color name="eleven">#6fa482</color>
+    <color name="twelve">#edc014</color>
+
+
+
+</resources>
